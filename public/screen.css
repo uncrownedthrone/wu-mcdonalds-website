@@ -9,4 +9,26 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-color: red;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  color: yellow;
+  text-align: center;
+}
+
+span {
+  color: blue;
+  text-decoration: underline;
 }
